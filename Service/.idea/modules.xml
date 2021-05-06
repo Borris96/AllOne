@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Service.iml" filepath="$PROJECT_DIR$/.idea/Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-parent/framework-common/framework-common.iml" filepath="$PROJECT_DIR$/framework-parent/framework-common/framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-parent/framework-model/framework-model.iml" filepath="$PROJECT_DIR$/framework-parent/framework-model/framework-model.iml" />
       <module fileurl="file://$PROJECT_DIR$/framework-parent/framework-parent.iml" filepath="$PROJECT_DIR$/framework-parent/framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-parent/framework-utils/framework-utils.iml" filepath="$PROJECT_DIR$/framework-parent/framework-utils/framework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-parent/service-api/service-api.iml" filepath="$PROJECT_DIR$/framework-parent/service-api/service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-parent/service-manage-course/service-manage-course.iml" filepath="$PROJECT_DIR$/framework-parent/service-manage-course/service-manage-course.iml" />
     </modules>
   </component>
 </project>
